@@ -1,4 +1,4 @@
 
 hello
 
-this is my name: Jay
+this is my name
